@@ -44,7 +44,7 @@ To get started with any of these projects, clone this repository and navigate to
 
 1.Clone this repository to your local machine : git clone https://github.com/Balavignesh-25/CODSOFT.git
 
-2.Navigate to the specific project folder you want to work on : 
+2.Navigate to the specific project folder you want to work on : cd CODSOFT cd project-name (e.g cd Chatbot)
 
 3.Run the application's main script as mentioned in the individual project descriptions.
 
