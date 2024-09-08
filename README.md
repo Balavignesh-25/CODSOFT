@@ -42,7 +42,7 @@ During my internship, I focused on several AI-related projects, ranging from rul
 ## Getting Started
 To get started with any of these projects, clone this repository and navigate to the relevant project folder.
 
-1.Clone this repository to your local machine : git clone https://github.com/Bala
+1.Clone this repository to your local machine : git clone https://github.com/Balavignesh-25/CODSOFT.git
 
 2.Navigate to the specific project folder you want to work on : 
 
