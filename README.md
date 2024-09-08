@@ -23,21 +23,21 @@ During my internship, I focused on several AI-related projects, ranging from rul
 
 - *Technologies*: Python
 - *Skills Learned*: Rule-based systems, pattern matching
-- *Project Folder*: [chatbot](./chatbot)
+- *Project Folder*: [Chatbot](./Chatbot)
 
 ### Task 2: Tic-Tac-Toe AI
 *Description*: I implemented an AI agent that plays Tic-Tac-Toe using the Game Theory and Minimax algorithm. The AI is designed to be unbeatable.
 
 - *Technologies*: Python
 - *Skills Learned*: Game theory, Minimax algorithm, Alpha-Beta Pruning
-- *Project Folder*: [tic-tac-toe-ai](./tic-tac-toe-ai)
+- *Project Folder*: [Tic Tac Toe](./Tic-Tac-Toe)
 
 ### Task 3: Face Detection and Recognition
 *Description*: This project focuses on face detection and recognition using pre-trained models like Haar cascades and deep learning-based detectors.
 
 - *Technologies*: Python, OpenCV
 - *Skills Learned*: Face detection, computer vision, deep learning
-- *Project Folder*: [face-detection-recognition](./face-detection-recognition)
+- *Project Folder*: [Face Detection](./Face-Detection)
 
 ## Getting Started
 To get started with any of these projects, clone this repository and navigate to the relevant project folder.
