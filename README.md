@@ -37,7 +37,7 @@ During my internship, I focused on several AI-related projects, ranging from rul
 
 - *Technologies*: Python, OpenCV
 - *Skills Learned*: Face detection, computer vision, deep learning
-- *Project Folder*: [Face Detection](./Face-Detection)
+- *Project Folder*: [Face Detection](https://github.com/Balavignesh-25/CODSOFT/tree/90f1ced1fa03feb476d0482f60fc071cce81f61c/Face%20Detection)
 
 ## Getting Started
 To get started with any of these projects, clone this repository and navigate to the relevant project folder.
