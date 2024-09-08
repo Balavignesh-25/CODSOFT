@@ -30,7 +30,7 @@ During my internship, I focused on several AI-related projects, ranging from rul
 
 - *Technologies*: Python
 - *Skills Learned*: Game theory, Minimax algorithm, Alpha-Beta Pruning
-- *Project Folder*: [Tic Tac Toe](Tic Tac Toe)
+- *Project Folder*: [Tic Tac Toe](https://github.com/Balavignesh-25/CODSOFT/tree/557f8ec45e787cc9554e8f261e166319f808da40/Tic%20Tac%20Toe)
 
 ### Task 3: Face Detection and Recognition
 *Description*: This project focuses on face detection and recognition using pre-trained models like Haar cascades and deep learning-based detectors.
